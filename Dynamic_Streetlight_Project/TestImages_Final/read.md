@@ -1,0 +1,1 @@
+Here are the test images run with the shadow detection algorithm.
